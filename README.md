@@ -13,7 +13,7 @@ I am a passionate **Full Stack Developer** with strong knowledge in **Java techn
 
 * Java
 * C Language
-* SQL
+
 
 ### 🔹 Backend Development
 
@@ -26,6 +26,7 @@ I am a passionate **Full Stack Developer** with strong knowledge in **Java techn
 
 * HTML, CSS, JavaScript
 * React.js
+* Angular
 
 ### 🔹 Database
 
