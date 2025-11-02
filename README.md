@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently pursuing Master of Science in Computer Science from Savitribai Phule Pune University,<br>and completed Batchelor Degree from KBC North Maharashtra University, Jalgaon with a strong foundation in programming, database management, and modern web technologies. Experienced in Java, full-stack development, and building responsive user interfaces using frameworks like React. Familiar with industry-standard development tools and version control systems, enabling efficient collaboration and project delivery. Passionate about contributing as a Full Stack Java Developer or Frontend Developer or Backend Developer in a growth-oriented organization
+Full Stack Java Developer skilled in building end-to-end web applications using Java, Spring Boot, React, and MySQL. Experienced in developing RESTful APIs and integrating front-end with back-end systems.
 
 
 ## 🌐 Socials:
@@ -12,13 +12,10 @@ Currently pursuing Master of Science in Computer Science from Savitribai Phule P
 ![](https://nirzak-streak-stats.vercel.app/?user=maheshshelar05&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshshelar05&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maheshshelar05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=maheshshelar05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
